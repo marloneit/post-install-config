@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://imgur.com/a/D6HdJL0" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Post Configuration Setup</h1>
